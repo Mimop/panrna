@@ -5,3 +5,5 @@ For more details see the [manual](https://github.com/Mimop/panrna/blob/master/Pa
 
 
 ![PanRAN](https://github.com/Mimop/panrna/blob/master/panrna.jpg)
+
+panrna_v2.1.11 should work correctly with python=3.x versions.
