@@ -19,4 +19,4 @@ _PanRNA: An RNAseq pipeline for semi-reference guided analysis_ Miguel Morard & 
 https://doi.org/10.5281/zenodo.12626837
 https://github.com/Mimop/panrna
 
-*Help* :miguel.morard@iata.csic.es
+*Help* :miguel.morard@iata.csic.es / jalonso@ibv.csic.es
