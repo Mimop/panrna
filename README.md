@@ -8,6 +8,7 @@ For more details see the [manual](https://github.com/Mimop/panrna/blob/master/Pa
 
 # Releases
 panrna_v2.1.0 is the original pipeline that was tested with python 2.7
+
 panrna_v2.1.11 should work correctly with python=3.x versions in most systems
 
 # Citing 
